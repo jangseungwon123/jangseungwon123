@@ -3,7 +3,7 @@
 <!--
 **jangseungwon123/jangseungwon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h2>fdsfs<h2>
+~~ 취소선 테스트 ~~
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
