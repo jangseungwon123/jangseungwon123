@@ -1,9 +1,13 @@
 ## Hi my name is jang seungwon 👋
+~~ 취소선 테스트 ~~
+
+<h2>
+  sdfdsfds
+</h2>
 
 <!--
 **jangseungwon123/jangseungwon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-~~ 취소선 테스트 ~~
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
