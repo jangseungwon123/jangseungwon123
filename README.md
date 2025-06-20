@@ -1,5 +1,9 @@
 ## Hi my name is jang seungwon 👋
-~~ 취소선 테스트 ~~
+```java
+public void test() {
+  int i = 0;
+}
+```
 
 <h2>
   sdfdsfds
