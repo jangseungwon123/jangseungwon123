@@ -1,14 +1,13 @@
 ## 初めまし張勝源と申します。
 ## よろしくお願いいたします。👋
 ```java
-public void test() {
-  int i = 0;
+public void jangseungwon() {
+  private String java;
+  private String DB;
+  private String HTML/CSS;
+  private String Spring boot;
 }
 ```
-
-<h2>
-  sdfdsfds
-</h2>
 
 <!--
 **jangseungwon123/jangseungwon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
