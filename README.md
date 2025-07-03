@@ -8,7 +8,7 @@ public void jangseungwon() {
 public void japaneseExperience() {
 private String jlpt = "N2";
 private String institution:"ミツミネケリアアカデミー";
-private String lived = "일본 유학 1년 3개월";
+private String lived = "1年3月";
 }
 
 public void developerJourney(){
