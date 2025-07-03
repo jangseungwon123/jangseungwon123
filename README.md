@@ -1,4 +1,5 @@
-## Hi my name is jang seungwon 👋
+## 初めまし張勝源と申します。
+## よろしくお願いいたします。👋
 ```java
 public void test() {
   int i = 0;
